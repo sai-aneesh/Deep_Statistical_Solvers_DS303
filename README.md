@@ -1,6 +1,6 @@
 # Paper Implementataion: Deep Statistical Solvers
 
-![image](https://user-images.githubusercontent.com/73030180/202532571-6ff3f7e1-1b71-46aa-ba42-2e537118e05f.png)
+![image](https://user-images.githubusercontent.com/73030180/202536331-6f1c7344-a03e-4017-b32b-4678e2e7490a.png)
 
 For the course project of DS303, We worked on the implementation of the paper [Deep Statistical Solvers](https://hal.inria.fr/hal-02974541) (accepted at NeurIPS 2020) in TensorFlow. This project helped us understand the working of **Graph Neural Networks**.
 
