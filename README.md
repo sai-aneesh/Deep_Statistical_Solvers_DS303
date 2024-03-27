@@ -1,4 +1,4 @@
-# Paper Implementataion: Deep Statistical Solvers
+# Paper Implementation: Deep Statistical Solvers
 
 <img width="503" alt="IE643" src="https://github.com/sai-aneesh/Deep_Statistical_Solvers_DS303/assets/73030180/5274e169-8cba-4671-8e4d-63cac08e6370">
 
